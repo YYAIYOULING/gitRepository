@@ -1,7 +1,1 @@
-杩欐槸涓�涓祴璇旸EMO鏂囦欢
-娴嬭瘯杩炴帴杩滅▼浠撳簱
-master淇敼demo鏂囦欢
-dev淇敼demo
-test淇敼demo
-exclipse test remote
-
+测试demo
