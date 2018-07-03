@@ -1,6 +1,7 @@
-这是一个测试DEMO文件
-测试连接远程仓库
-master修改demo文件
-dev修改demo
-test修改demo
+杩欐槸涓�涓祴璇旸EMO鏂囦欢
+娴嬭瘯杩炴帴杩滅▼浠撳簱
+master淇敼demo鏂囦欢
+dev淇敼demo
+test淇敼demo
+exclipse test remote
 
